@@ -14,8 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Laura Wilson
+author: Laura Wilson
 email: ""
 description: Laura Wilson - Web Developer. Portfolio and Blog.
+year: 2017
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com http://www.laurawilson.co
 twitter_username: wilslau
